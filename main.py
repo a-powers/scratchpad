@@ -1,9 +1,9 @@
 #Write your code below this line 👇
 
 
-def holiday(n=2,p=2):
-    return n+p
-print(holiday())
+def holiday(n,p):
+    return n/p
+print(holiday(21,9))
 
 
 
