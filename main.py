@@ -3,6 +3,8 @@
 
 def holiday(n,p):
     return n*p
+
+    
 print(holiday(21,9))
 
 
